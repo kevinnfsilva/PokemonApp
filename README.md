@@ -6,7 +6,7 @@ This project was built for a technical test, with a focus on demonstrating clean
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 * **Prerequisites:** Xcode 15+ and an iOS 15+ simulator.
 
@@ -17,7 +17,7 @@ This project was built for a technical test, with a focus on demonstrating clean
 
 ---
 
-## 🏗️ Architecture and Decisions
+## Architecture and Decisions
 
 The foundation of the project is **Clean Architecture**. I chose this approach to keep the code well-organized, with a clear separation of concerns, and, most importantly, easy to test.
 
@@ -35,7 +35,7 @@ Within this structure, I made a few key decisions:
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 I opted to use Apple's native frameworks as much as possible to demonstrate knowledge of the platform.
 
@@ -45,7 +45,7 @@ I opted to use Apple's native frameworks as much as possible to demonstrate know
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 If I had more time, the next steps would be:
 
